@@ -5,6 +5,9 @@ function hasKey(key) {
 		if(sampleObject == key){
 			return true;
 		}
+		else{
+			return false;
+		}
 }
 
 // Do not change the code below
